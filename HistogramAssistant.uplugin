@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Histogram Assistant",
+	"Description": "读取编辑器活动视口画面并显示 RGB/亮度直方图，辅助调色。",
+	"Category": "Editor",
+	"CreatedBy": "Reasonix",
+	"CanContainContent": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "HistogramAssistant",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

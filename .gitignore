@@ -1,0 +1,31 @@
+# Unreal Engine generated
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# build artifacts
+*.pdb
+*.exp
+*.lib
+*.obj
+*.sarif
+*.dep.json
+*.rsp
+*.rsp.old
+*.old
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
